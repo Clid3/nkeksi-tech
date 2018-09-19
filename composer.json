@@ -12,7 +12,8 @@
         "laravel/socialite": "^3.0",
         "laravel/tinker": "~1.0",
         "spatie/laravel-medialibrary": "^6.9",
-        "spatie/laravel-newsletter": "^4.2"
+        "spatie/laravel-newsletter": "^4.2",
+
     },
     "require-dev": {
         "filp/whoops": "~2.0",
@@ -58,4 +59,5 @@
         "sort-packages": true,
         "optimize-autoloader": true
     }
+
 }
